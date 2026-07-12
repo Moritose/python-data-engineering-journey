@@ -1,4 +1,5 @@
-Regles du jeu
+##  Regles du jeu
+
 Le but de ce projet est de créer un jeu de rôle textuel dans le terminal.
 
 Le jeu comporte deux joueurs : vous et un ennemi.
